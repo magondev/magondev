@@ -2,21 +2,14 @@ Hi there 👋. I'm a Full Stack Developer with nearly a decade of experience in 
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/magomedachtaew/) for a more detailed description of my full work experience, education and certification.
 
-### What I do
-- 💻 I work on web applications and mobile apps.
-- 🌐 I develop both frontend and backend solutions.
-- 🛠️ I'm experienced with various technologies like JavaScript, Python, React, and Node.js.
+For my full tech stack, check [my portfolio website](https://www.magon.dev/).
 
-### What I love
-- 🚀 Exploring and learning new technologies.
-- 🎯 Solving problems and finding efficient solutions.
-
-## Current projects
+### Current projects
 
 - **as-Sahabi** - a mobile app for Muslims to read the Qur'an, find prayer times, prayer direction, and more. It's written in Flutter.
 - **phone-store** - an e-commerce web-app with a frontend for consumers, an admin-frontend for administrators (both written in Angular), and a backend written with Spring Boot Java and MongoDB.
 
-## Done projects
+### Done projects
 
 - **InTools** - a mobile app for instagram, provides useful features like downloading profiles and hashtags, scheduled posts, hashtag generator, profile picture downloader, etc. - making their work easier.
 - **Phone Factory** - website with a shop for a friend who provides phone repair services at two locations in Vienna.
